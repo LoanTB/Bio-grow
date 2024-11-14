@@ -4,7 +4,7 @@ Bio Grow is a generative simulation project developed with Python and Pygame. Th
 
 ![image](https://github.com/user-attachments/assets/968372cc-ab8a-489c-96c4-63d912faf352)
 
-![image](https://github.com/user-attachments/assets/530952d2-4582-4216-83b5-6081d60f5127)
+![image](https://github.com/user-attachments/assets/306ebdb6-5ff6-4308-8e05-f2eb8854ce8e)
 
 ![image](https://github.com/user-attachments/assets/4bb1daed-77ed-4bf5-8791-50fcb4125444)
 
