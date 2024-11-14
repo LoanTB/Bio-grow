@@ -2,6 +2,13 @@
 
 Bio Grow is a generative simulation project developed with Python and Pygame. The simulation visualizes a biological growth system, where organisms replicate based on probabilistic factors, producing an intricate network of life-like entities. This simulation is ideal for users interested in observing natural patterns, biological decay, and growth dynamics in a visualized environment.
 
+![image](https://github.com/user-attachments/assets/968372cc-ab8a-489c-96c4-63d912faf352)
+
+![image](https://github.com/user-attachments/assets/530952d2-4582-4216-83b5-6081d60f5127)
+
+![image](https://github.com/user-attachments/assets/4bb1daed-77ed-4bf5-8791-50fcb4125444)
+
+
 ## Features
 
 - **Organism Growth**: Organisms grow, decay, and reproduce, creating a network of interconnected entities over time.
